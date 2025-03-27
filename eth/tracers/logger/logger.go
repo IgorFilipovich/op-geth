@@ -27,13 +27,13 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/core/tracing"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/IgorFilipovich/op-geth/common"
+	"github.com/IgorFilipovich/op-geth/common/hexutil"
+	"github.com/IgorFilipovich/op-geth/common/math"
+	"github.com/IgorFilipovich/op-geth/core/tracing"
+	"github.com/IgorFilipovich/op-geth/core/types"
+	"github.com/IgorFilipovich/op-geth/core/vm"
+	"github.com/IgorFilipovich/op-geth/params"
 	"github.com/holiman/uint256"
 )
 

@@ -21,12 +21,12 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/tracing"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/event"
+	"github.com/IgorFilipovich/op-geth/common"
+	"github.com/IgorFilipovich/op-geth/core/state"
+	"github.com/IgorFilipovich/op-geth/core/tracing"
+	"github.com/IgorFilipovich/op-geth/core/types"
+	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/op-geth/event"
 	"github.com/holiman/uint256"
 )
 

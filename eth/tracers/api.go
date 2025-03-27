@@ -28,22 +28,22 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/consensus"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/eth/tracers/logger"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/internal/ethapi/override"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/IgorFilipovich/op-geth/common"
+	"github.com/IgorFilipovich/op-geth/common/hexutil"
+	"github.com/IgorFilipovich/op-geth/consensus"
+	"github.com/IgorFilipovich/op-geth/core"
+	"github.com/IgorFilipovich/op-geth/core/rawdb"
+	"github.com/IgorFilipovich/op-geth/core/state"
+	"github.com/IgorFilipovich/op-geth/core/types"
+	"github.com/IgorFilipovich/op-geth/core/vm"
+	"github.com/IgorFilipovich/op-geth/eth/tracers/logger"
+	"github.com/IgorFilipovich/op-geth/ethdb"
+	"github.com/IgorFilipovich/op-geth/internal/ethapi"
+	"github.com/IgorFilipovich/op-geth/internal/ethapi/override"
+	"github.com/IgorFilipovich/op-geth/log"
+	"github.com/IgorFilipovich/op-geth/params"
+	"github.com/IgorFilipovich/op-geth/rlp"
+	"github.com/IgorFilipovich/op-geth/rpc"
 )
 
 const (
@@ -703,7 +703,7 @@ func (api *API) traceBlockParallel(ctx context.Context, block *types.Block, stat
 				// Reconstruct the block context for each transaction
 				// as the GetHash function of BlockContext is not safe for
 				// concurrent use.
-				// See: https://github.com/ethereum/go-ethereum/issues/29114
+				// See: https://github.com/IgorFilipovich/op-geth/issues/29114
 				blockCtx := core.NewEVMBlockContext(block.Header(), api.chainContext(ctx), nil, api.backend.ChainConfig(), task.statedb)
 				res, err := api.traceTx(ctx, txs[task.index], msg, txctx, blockCtx, task.statedb, config)
 				if err != nil {

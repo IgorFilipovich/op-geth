@@ -17,10 +17,10 @@
 package stateless
 
 import (
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
+	"github.com/IgorFilipovich/op-geth/common"
+	"github.com/IgorFilipovich/op-geth/core/rawdb"
+	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/op-geth/ethdb"
 )
 
 // MakeHashDB imports tries, codes and block hashes from a witness into a new

@@ -19,7 +19,7 @@ package params
 import (
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/IgorFilipovich/op-geth/common"
 )
 
 var (

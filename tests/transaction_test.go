@@ -19,8 +19,8 @@ package tests
 import (
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/IgorFilipovich/op-geth/common"
+	"github.com/IgorFilipovich/op-geth/params"
 )
 
 func TestTransaction(t *testing.T) {
