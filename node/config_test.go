@@ -23,7 +23,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/p2p"
 )
 

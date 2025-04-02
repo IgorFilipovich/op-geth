@@ -36,7 +36,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/core/state"
 	"github.com/IgorFilipovich/op-geth/core/types"
 	"github.com/IgorFilipovich/op-geth/core/vm"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/ethdb"
 	"github.com/IgorFilipovich/op-geth/log"
 	"github.com/IgorFilipovich/op-geth/params"

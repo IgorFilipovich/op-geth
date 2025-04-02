@@ -22,7 +22,7 @@ import (
 	"net"
 
 	"github.com/IgorFilipovich/op-geth/cmd/devp2p/internal/ethtest"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/p2p"
 	"github.com/IgorFilipovich/op-geth/p2p/enode"
 	"github.com/IgorFilipovich/op-geth/p2p/rlpx"

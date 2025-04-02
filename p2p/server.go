@@ -33,7 +33,7 @@ import (
 
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/common/mclock"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/event"
 	"github.com/IgorFilipovich/op-geth/log"
 	"github.com/IgorFilipovich/op-geth/p2p/discover"

@@ -22,7 +22,7 @@ import (
 	"io"
 
 	"github.com/IgorFilipovich/op-geth/common/math"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/p2p/enr"
 	"github.com/IgorFilipovich/op-geth/rlp"
 	"golang.org/x/crypto/sha3"

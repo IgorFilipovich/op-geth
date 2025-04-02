@@ -33,8 +33,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/IgorFilipovich/my-crypto"
-	"github.com/IgorFilipovich/my-crypto/ecies"
+	"github.com/IgorFilipovich/crypto"
+	"github.com/IgorFilipovich/crypto/ecies"
 	"github.com/IgorFilipovich/op-geth/rlp"
 	"github.com/golang/snappy"
 	"golang.org/x/crypto/sha3"

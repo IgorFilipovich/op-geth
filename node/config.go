@@ -26,7 +26,7 @@ import (
 	"strings"
 
 	"github.com/IgorFilipovich/op-geth/common"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/log"
 	"github.com/IgorFilipovich/op-geth/p2p"
 	"github.com/IgorFilipovich/op-geth/rpc"

@@ -12,7 +12,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/common/hexutil"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/params"
 )
 

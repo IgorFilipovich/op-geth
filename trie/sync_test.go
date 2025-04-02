@@ -26,7 +26,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/core/rawdb"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/ethdb"
 	"github.com/IgorFilipovich/op-geth/ethdb/memorydb"
 	"github.com/IgorFilipovich/op-geth/trie/trienode"

@@ -27,7 +27,7 @@ import (
 	"time"
 
 	"github.com/IgorFilipovich/op-geth/common/bitutil"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 // bloomIndexes represents the bit indexes inside the bloom filter that belong

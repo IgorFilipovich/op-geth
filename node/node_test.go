@@ -27,7 +27,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/ethdb"
 	"github.com/IgorFilipovich/op-geth/p2p"
 	"github.com/IgorFilipovich/op-geth/rpc"

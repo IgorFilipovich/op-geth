@@ -33,7 +33,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/core/txpool/legacypool"
 	"github.com/IgorFilipovich/op-geth/core/types"
 	"github.com/IgorFilipovich/op-geth/core/vm"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/ethdb"
 	"github.com/IgorFilipovich/op-geth/p2p"
 	"github.com/IgorFilipovich/op-geth/p2p/enode"

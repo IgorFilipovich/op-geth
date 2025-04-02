@@ -30,7 +30,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/consensus/misc/eip4844"
 	"github.com/IgorFilipovich/op-geth/core"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/my-crypto/kzg4844"
+	"github.com/IgorFilipovich/crypto/kzg4844"
 	"github.com/IgorFilipovich/op-geth/log"
 	"github.com/IgorFilipovich/op-geth/params"
 	"github.com/IgorFilipovich/op-geth/rpc"

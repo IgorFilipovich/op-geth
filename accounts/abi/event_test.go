@@ -26,7 +26,7 @@ import (
 	"testing"
 
 	"github.com/IgorFilipovich/op-geth/common"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

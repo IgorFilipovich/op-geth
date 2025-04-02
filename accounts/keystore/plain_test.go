@@ -26,7 +26,7 @@ import (
 	"testing"
 
 	"github.com/IgorFilipovich/op-geth/common"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 func tmpKeyStoreIface(t *testing.T, encrypted bool) (dir string, ks keyStore) {

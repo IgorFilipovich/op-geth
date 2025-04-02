@@ -24,7 +24,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/internal/utesting"
 	"github.com/IgorFilipovich/op-geth/p2p/discover/v4wire"
 )

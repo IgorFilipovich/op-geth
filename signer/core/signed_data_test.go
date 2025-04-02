@@ -31,7 +31,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/common/hexutil"
 	"github.com/IgorFilipovich/op-geth/common/math"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/signer/core"
 	"github.com/IgorFilipovich/op-geth/signer/core/apitypes"
 )

@@ -31,7 +31,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/core/rawdb"
 	"github.com/IgorFilipovich/op-geth/core/types"
 	"github.com/IgorFilipovich/op-geth/core/vm"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/params"
 	"github.com/IgorFilipovich/op-geth/trie"
 	"github.com/holiman/uint256"

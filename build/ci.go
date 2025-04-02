@@ -58,7 +58,7 @@ import (
 	"time"
 
 	"github.com/cespare/cp"
-	"github.com/IgorFilipovich/my-crypto/signify"
+	"github.com/IgorFilipovich/crypto/signify"
 	"github.com/IgorFilipovich/op-geth/internal/build"
 	"github.com/IgorFilipovich/op-geth/internal/version"
 )

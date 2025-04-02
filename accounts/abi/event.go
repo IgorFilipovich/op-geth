@@ -21,7 +21,7 @@ import (
 	"strings"
 
 	"github.com/IgorFilipovich/op-geth/common"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

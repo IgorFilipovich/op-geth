@@ -26,7 +26,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/core/tracing"
 	"github.com/IgorFilipovich/op-geth/core/types"
 	"github.com/IgorFilipovich/op-geth/core/vm"
-	"github.com/IgorFilipovich/my-crypto/kzg4844"
+	"github.com/IgorFilipovich/crypto/kzg4844"
 	"github.com/IgorFilipovich/op-geth/params"
 	"github.com/holiman/uint256"
 )

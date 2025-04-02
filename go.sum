@@ -49,8 +49,8 @@ github.com/BurntSushi/toml v1.4.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/DataDog/zstd v1.5.6-0.20230824185856-869dae002e5e h1:ZIWapoIRN1VqT8GR8jAwb1Ie9GyehWjVcGh32Y2MznE=
 github.com/DataDog/zstd v1.5.6-0.20230824185856-869dae002e5e/go.mod h1:g4AWEaM3yOg3HYfnJ3YIawPnVdXJh9QME85blwSAmyw=
-github.com/IgorFilipovich/my-crypto v0.2.0 h1:Cpwcxf4IGPktoU3UTBxKvOmQBxlL3PThEe1D6ElhOuE=
-github.com/IgorFilipovich/my-crypto v0.2.0/go.mod h1:Uv3QgKXtnWnxVuC0WUasvqIhtHDoXpCEsW/EV6t5YNE=
+github.com/IgorFilipovich/crypto v0.3.0 h1:uZfXRsBfGEt/nfNhQWvZPAkuUfPaxCLTTSdmuysgB4U=
+github.com/IgorFilipovich/crypto v0.3.0/go.mod h1:Sfhfyvc0okMaP1hJndxFMmKEuQq7AlGS4n2nOuZmYa4=
 github.com/Microsoft/go-winio v0.6.2 h1:F2VQgta7ecxGYO8k3ZZz3RS8fVIXVxONVUPlNERoyfY=
 github.com/Microsoft/go-winio v0.6.2/go.mod h1:yd8OoFMLzJbo9gZq8j5qaps8bJ9aShtEA8Ipt1oGCvU=
 github.com/StackExchange/wmi v1.2.1 h1:VIkavFPXSjcnS+O8yTq7NI32k0R5Aj+v39y29VYDOSA=

@@ -26,7 +26,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/core"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/eth"
 	"github.com/IgorFilipovich/op-geth/eth/ethconfig"
 	"github.com/IgorFilipovich/op-geth/miner"

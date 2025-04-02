@@ -21,8 +21,8 @@ import (
 	"testing"
 
 	"github.com/IgorFilipovich/op-geth/common"
-	"github.com/IgorFilipovich/my-crypto"
-	"github.com/IgorFilipovich/my-crypto/kzg4844"
+	"github.com/IgorFilipovich/crypto"
+	"github.com/IgorFilipovich/crypto/kzg4844"
 	"github.com/holiman/uint256"
 )
 

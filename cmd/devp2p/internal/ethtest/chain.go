@@ -36,7 +36,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/core/forkid"
 	"github.com/IgorFilipovich/op-geth/core/state"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/crypto"
 	"github.com/IgorFilipovich/op-geth/eth/protocols/eth"
 	"github.com/IgorFilipovich/op-geth/params"
 	"github.com/IgorFilipovich/op-geth/rlp"
