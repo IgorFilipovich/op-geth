@@ -26,7 +26,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/accounts/abi/bind"
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/IgorFilipovich/op-geth/ethclient/simulated"
 	"github.com/IgorFilipovich/op-geth/params"
 )

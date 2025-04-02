@@ -40,7 +40,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/accounts"
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/common/math"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/google/uuid"
 	"golang.org/x/crypto/pbkdf2"
 	"golang.org/x/crypto/scrypt"

@@ -22,7 +22,7 @@ import (
 	"math/big"
 
 	"github.com/IgorFilipovich/op-geth/common/hexutil"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 )
 
 type bytesBacked interface {

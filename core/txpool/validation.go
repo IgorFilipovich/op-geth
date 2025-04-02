@@ -27,7 +27,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/core"
 	"github.com/IgorFilipovich/op-geth/core/state"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/op-geth/crypto/kzg4844"
+	"github.com/IgorFilipovich/my-crypto/kzg4844"
 	"github.com/IgorFilipovich/op-geth/log"
 	"github.com/IgorFilipovich/op-geth/params"
 )

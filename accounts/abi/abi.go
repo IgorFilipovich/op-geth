@@ -25,7 +25,7 @@ import (
 	"math/big"
 
 	"github.com/IgorFilipovich/op-geth/common"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 )
 
 // The ABI holds information about a contract's context and available

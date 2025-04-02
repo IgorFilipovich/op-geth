@@ -23,7 +23,7 @@ import (
 
 	"github.com/IgorFilipovich/op-geth/accounts/keystore"
 	"github.com/IgorFilipovich/op-geth/cmd/utils"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/urfave/cli/v2"
 )
 

@@ -27,7 +27,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/core/state"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/IgorFilipovich/op-geth/eth/protocols/snap"
 	"github.com/IgorFilipovich/op-geth/internal/utesting"
 	"github.com/IgorFilipovich/op-geth/trie"

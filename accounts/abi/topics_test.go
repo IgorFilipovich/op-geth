@@ -23,7 +23,7 @@ import (
 	"testing"
 
 	"github.com/IgorFilipovich/op-geth/common"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 )
 
 func TestMakeTopics(t *testing.T) {

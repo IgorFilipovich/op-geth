@@ -21,7 +21,7 @@ import (
 	"sync"
 
 	"github.com/IgorFilipovich/op-geth/common"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/IgorFilipovich/op-geth/ethdb"
 	"github.com/IgorFilipovich/op-geth/log"
 )

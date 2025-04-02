@@ -33,7 +33,7 @@ import (
 
 	"github.com/IgorFilipovich/op-geth/common/hexutil"
 	"github.com/IgorFilipovich/op-geth/common/mclock"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/IgorFilipovich/op-geth/p2p/enode"
 )
 

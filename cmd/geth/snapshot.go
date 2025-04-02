@@ -32,7 +32,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/core/state/pruner"
 	"github.com/IgorFilipovich/op-geth/core/state/snapshot"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/IgorFilipovich/op-geth/log"
 	"github.com/IgorFilipovich/op-geth/rlp"
 	"github.com/IgorFilipovich/op-geth/trie"

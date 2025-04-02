@@ -22,7 +22,7 @@ import (
 	"strings"
 
 	"github.com/IgorFilipovich/op-geth/common"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 )
 
 type Error struct {

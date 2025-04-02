@@ -26,7 +26,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/core"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/op-geth/crypto/kzg4844"
+	"github.com/IgorFilipovich/my-crypto/kzg4844"
 	"github.com/IgorFilipovich/op-geth/event"
 	"github.com/IgorFilipovich/op-geth/log"
 	"github.com/IgorFilipovich/op-geth/metrics"

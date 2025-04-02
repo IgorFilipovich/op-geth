@@ -26,7 +26,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/core/txpool"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/holiman/uint256"
 )
 

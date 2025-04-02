@@ -27,7 +27,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/accounts/abi/bind"
 	"github.com/IgorFilipovich/op-geth/cmd/utils"
 	"github.com/IgorFilipovich/op-geth/common/compiler"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/IgorFilipovich/op-geth/internal/flags"
 	"github.com/IgorFilipovich/op-geth/log"
 	"github.com/urfave/cli/v2"

@@ -35,8 +35,8 @@ import (
 	"github.com/IgorFilipovich/op-geth/common/hexutil"
 	"github.com/IgorFilipovich/op-geth/common/math"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/op-geth/crypto"
-	"github.com/IgorFilipovich/op-geth/crypto/kzg4844"
+	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/my-crypto/kzg4844"
 	"github.com/holiman/uint256"
 )
 

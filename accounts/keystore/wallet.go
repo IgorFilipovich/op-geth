@@ -22,7 +22,7 @@ import (
 	"github.com/IgorFilipovich/op-geth"
 	"github.com/IgorFilipovich/op-geth/accounts"
 	"github.com/IgorFilipovich/op-geth/core/types"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

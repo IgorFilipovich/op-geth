@@ -24,7 +24,7 @@ import (
 	"github.com/VictoriaMetrics/fastcache"
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/core/rawdb"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/IgorFilipovich/op-geth/log"
 )
 

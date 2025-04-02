@@ -35,7 +35,7 @@ import (
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/common/hexutil"
 	"github.com/IgorFilipovich/op-geth/core/vm"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	jsassets "github.com/IgorFilipovich/op-geth/eth/tracers/js/internal/tracers"
 )
 

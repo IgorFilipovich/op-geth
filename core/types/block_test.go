@@ -25,7 +25,7 @@ import (
 
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/common/math"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/IgorFilipovich/op-geth/internal/blocktest"
 	"github.com/IgorFilipovich/op-geth/params"
 	"github.com/IgorFilipovich/op-geth/rlp"

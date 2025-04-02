@@ -25,7 +25,7 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/IgorFilipovich/op-geth/eth/protocols/eth"
 	"github.com/IgorFilipovich/op-geth/eth/protocols/snap"
 	"github.com/IgorFilipovich/op-geth/p2p"

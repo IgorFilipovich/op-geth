@@ -29,8 +29,8 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/IgorFilipovich/op-geth/crypto"
-	"github.com/IgorFilipovich/op-geth/crypto/ecies"
+	"github.com/IgorFilipovich/my-crypto"
+	"github.com/IgorFilipovich/my-crypto/ecies"
 	"github.com/IgorFilipovich/op-geth/p2p/pipes"
 	"github.com/IgorFilipovich/op-geth/rlp"
 	"github.com/stretchr/testify/assert"

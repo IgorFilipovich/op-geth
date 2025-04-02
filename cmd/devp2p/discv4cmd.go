@@ -28,7 +28,7 @@ import (
 
 	"github.com/IgorFilipovich/op-geth/cmd/devp2p/internal/v4test"
 	"github.com/IgorFilipovich/op-geth/common"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 	"github.com/IgorFilipovich/op-geth/log"
 	"github.com/IgorFilipovich/op-geth/p2p/discover"
 	"github.com/IgorFilipovich/op-geth/p2p/enode"

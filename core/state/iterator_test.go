@@ -21,7 +21,7 @@ import (
 
 	"github.com/IgorFilipovich/op-geth/common"
 	"github.com/IgorFilipovich/op-geth/core/rawdb"
-	"github.com/IgorFilipovich/op-geth/crypto"
+	"github.com/IgorFilipovich/my-crypto"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.
